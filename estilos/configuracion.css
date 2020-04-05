@@ -12,13 +12,20 @@ h2 {
     font-weight: lighter;
     font-style: normal;
 }
-aside{
+.separarPublicidad{
     float: right;
     width: 20%
 }
 .separar{
-    float: left;
-    width: 80%
+    float:left;
+    width: 60%
 }
+
+.separarIndicie{
+    float: left;
+    width: 20%
+}
+
+ 
 .centrado{text-align:center}
 .justificado{text-align:justify}
