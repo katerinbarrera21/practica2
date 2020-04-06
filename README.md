@@ -23,39 +23,55 @@ Todas las páginas *.html deben tener una etiqueta header la cuál, deberá cont
 
 Todas las páginas *.html deben tener una etiqueta footer la cuál, deberá tener la información del estudiante como nombres completos, organización, correo (usar hipervínculo, mailto), teléfono (usar hipervínculo, tel), además deberá tener el símbolo de copyright junto a la leyenda de “Todos los derechos reservados”. Por ejemplo, © Todos los derechos reservados
 Las páginas *.html deberán tener al menos dos etiquetas section, article y aside
+
 Index
+
 https://github.com/katerinbarrera21/practica2/blob/master/ImagenesReadme/index1.JPG
 https://github.com/katerinbarrera21/practica2/blob/master/ImagenesReadme/index2.JPG
 https://github.com/katerinbarrera21/practica2/blob/master/ImagenesReadme/index3.JPG
+
 Anime
+
 https://github.com/katerinbarrera21/practica2/blob/master/ImagenesReadme/anime1.JPG
 https://github.com/katerinbarrera21/practica2/blob/master/ImagenesReadme/anime2.JPG
 https://github.com/katerinbarrera21/practica2/blob/master/ImagenesReadme/anime3.JPG
 https://github.com/katerinbarrera21/practica2/blob/master/ImagenesReadme/anime4.JPG
+
 Comida
+
 https://github.com/katerinbarrera21/practica2/blob/master/ImagenesReadme/comida1.JPG
 https://github.com/katerinbarrera21/practica2/blob/master/ImagenesReadme/comida2.JPG
 https://github.com/katerinbarrera21/practica2/blob/master/ImagenesReadme/comida3.JPG
 https://github.com/katerinbarrera21/practica2/blob/master/ImagenesReadme/comida4.JPG
+
 Sobre Japon
+
 https://github.com/katerinbarrera21/practica2/blob/master/ImagenesReadme/japon1.JPG
 https://github.com/katerinbarrera21/practica2/blob/master/ImagenesReadme/japon2.JPG
 https://github.com/katerinbarrera21/practica2/blob/master/ImagenesReadme/japon3.JPG
 https://github.com/katerinbarrera21/practica2/blob/master/ImagenesReadme/japon4.JPG
+
 Turistico 
+
 https://github.com/katerinbarrera21/practica2/blob/master/ImagenesReadme/lugar1.JPG
 https://github.com/katerinbarrera21/practica2/blob/master/ImagenesReadme/lugar2.JPG
 https://github.com/katerinbarrera21/practica2/blob/master/ImagenesReadme/lugar3.JPG
 https://github.com/katerinbarrera21/practica2/blob/master/ImagenesReadme/lugar4.JPG
+
 Museo
+
 https://github.com/katerinbarrera21/practica2/blob/master/ImagenesReadme/museo2.JPG
 https://github.com/katerinbarrera21/practica2/blob/master/ImagenesReadme/museo2.JPG
 https://github.com/katerinbarrera21/practica2/blob/master/ImagenesReadme/museo3.JPG
+
 Musica
+
 https://github.com/katerinbarrera21/practica2/blob/master/ImagenesReadme/musica1.JPG
 https://github.com/katerinbarrera21/practica2/blob/master/ImagenesReadme/musica2.JPG
 https://github.com/katerinbarrera21/practica2/blob/master/ImagenesReadme/musica4.JPG
+
 Tradicion
+
 https://github.com/katerinbarrera21/practica2/blob/master/ImagenesReadme/tradicion1.JPG
 https://github.com/katerinbarrera21/practica2/blob/master/ImagenesReadme/tradicion2.JPG
 https://github.com/katerinbarrera21/practica2/blob/master/ImagenesReadme/tradicion3.JPG
