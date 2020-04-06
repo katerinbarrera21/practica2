@@ -4,17 +4,12 @@ Practica01
 Mi Primer Sitio Web
 Estructurar un sitio web estático usando HTML5. 
 
-Objectivos
-• Entender y organizar de una mejor manera los sitios de web en Internet. 
-• Crear sitios web aplicando estándares actuales. 
-• Desarrollar aplicaciones web interactivas y amigables al usuario. 
-
 INFORME DE LA PRACTICA
 •Una página principal denominada index.html
 •Ocho páginas en formato *.html secundarias con temas relacionados a la página principal. 
 •Nota.- las páginas html, imágenes, audios, videos y otros recursos deberán estar organizadas en carpetas.
 
-
+https://github.com/katerinbarrera21/practica2/blob/master/ImagenesReadme/anime1.JPG
 
 Todas las páginas deberán tener un menú de navegación el cuál, permite al usuario navegar de una manera clara y sencilla entre todas las páginas HTML, tanto la principal como la secundaria.
 Todas las páginas *.html deben estar estructuradas según la semántica de HTML5. Nota.- se debe explicar la estructura de cada una de las página. Una estructura correcta de HTML5, sería:
