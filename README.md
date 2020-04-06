@@ -62,16 +62,27 @@ https://github.com/katerinbarrera21/practica2/blob/master/ImagenesReadme/tradici
 
 De igual manera, se pide que al menos una de las páginas dentro del contenido de la etiqueta , tengan los siguientes requisitos:
 Una tabla con la siguiente estructura planteada
+
 https://github.com/katerinbarrera21/practica2/blob/master/ImagenesReadme/tabla.JPG
+
 Un video de YouTube (ver, etiqueta iframe ).
+
 https://github.com/katerinbarrera21/practica2/blob/master/ImagenesReadme/youtube.JPG
+
 Un video con la etiqueta video.
+
 https://github.com/katerinbarrera21/practica2/blob/master/ImagenesReadme/video.JPG
+
 Un audio con la etiqueta audio.
+
 https://github.com/katerinbarrera21/practica2/blob/master/ImagenesReadme/audio.JPG
+
 Manejar listas ordenadas o desordenadas con al menos cinco ítems.
+
 https://github.com/katerinbarrera21/practica2/blob/master/ImagenesReadme/listaOrdena.JPG
+
 Tener al menos cinco etiquetas de texto que se encuentran en la figura 1- 16 del texto guía de la asignatura.
+
 https://github.com/katerinbarrera21/practica2/blob/master/ImagenesReadme/textoEtiqueta.JPG
 
 
