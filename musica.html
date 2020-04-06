@@ -1,6 +1,15 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
+    <!--
+     New Perspectives on HTML5 and CSS3, 7th Edition
+     Practica 2
+     Tutorial Case
+     Página sobre Japón
+     Author: Katherine Michelle Barrera Barrera
+     Date:6/4/2020
+     Filename: musica.html
+     -->
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Musica</title>
@@ -11,6 +20,9 @@
     <header>
         <img src="Instrumentos/chicaKoto.jpg" alt="koto" style="max-width: 100% "/>
         <h1>MÚSICA JAPONESA</h1>
+        <!--
+            Menu principal del contenido de la pagina
+        -->
         <nav>
             <ul>
              <li><a href="musica.html#seccion1">Instrumentos Tradicionales</a></li>
@@ -19,7 +31,9 @@
         </nav>
         
     </header>
-
+        <!--
+            Menu comun de navegacion para cada pagina
+        -->
 
     <section>
         <h3>Mira mas cotenido</h3>
@@ -40,12 +54,11 @@
         </header>
   </section>
 
-
+        <!--
+            Submenu sobre la seccion 1
+        -->
   <section>
      <h2 id="seccion1"> <i>Instrumentos Tradicionales</i></h2>
-
-
-
      <header>
          <nav>
              <ul>
@@ -70,13 +83,17 @@
             </p>
      </aside>
 
-     
+        <!--
+           Etiquetas audio y video, no soportan type
+           controls para poder manejarlos por ejemplo darle play al video
+        -->
 
      <h3>AUDIO</h3>
-     <audio controls src="Multimedia/fuego_de_chimenea_2.mp3" type= "audio/mpeg"></audio> <!--FORMATOS: mp3-mpeg, ogg-ogg, wav-wav -->
+
+     <audio controls src="Multimedia/fuego_de_chimenea_2.mp3" ></audio> 
 
      <h3>VIDEO</h3>
-     <video src= "Multimedia/video.mp4" type = "video/mp4" width="500" height="500" title="Malcolm in the middle" controls></video>
+     <video src= "Multimedia/video.mp4"  width="500" height="500" title="Malcolm in the middle" controls></video>
 
      
      <article>
@@ -130,28 +147,44 @@
          <p>
             <img src="Instrumentos/shakuhachi.jpg" alt= "shakuhachi" style="max-width: 100% "/>
          </p>
-    
-
      </article>
-
-
 </section>
 
+        <!--
+            Seccion de Publicad
+        -->
+
+<section>
+    <h2 class="centrado"> Publicidad<i></i></h2>
+        <aside class="separarPublicidad" >
+            <a href="https://zenmarket.jp/es"><img src="publicidad/comprasJapon.JPG" alt="publicidad2" style="max-width: 100% " width="300" height="220"/>Nagano Tour</a>
+             <p class=justificado>
+                Bienvenido a  <a href=https://zenmarket.jp/es>ZenMarket</a>
+                Un solo carrito para todas tus compras en línea a Japón.Comprando con ZenMarket te ahorras mucho en envío porque consolidamos tu pedido sin cargo.
+             </p>
+        </aside>
+ </section>
+        <!--
+            seccion 2 sobre musica
+        -->
 
  <section class="separar">
     <h2 id="seccion2"> <i>Música japonesa</i></h2>
     <h3 id="mus">Canciones</h3>
+        <!--
+            em para curverla, b para hacerla negriga, u para subrayado
+        -->
        <p>
-          <em><b><u>Canción Japonesa con instrumentos tradiconales</u></b></em><br>
+          <em><b><u></u>Canción Japonesa con instrumentos tradiconales</u></b></em><br> 
          <P>
-       <iframe width="560" height="315" src="https://www.youtube.com/embed/Cjw19t1WbJA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+       <iframe width="560" height="315" src="https://www.youtube.com/embed/Cjw19t1WbJA" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
        <p>
           <em><b><u> ALWAYS WITH ME</u></b></em><br>
 
        </p>
         
-        <iframe  width="560" height="315" src="https://www.youtube.com/embed/xBVo7__1MUE" frameborder="0" 
+        <iframe  width="560" height="315" src="https://www.youtube.com/embed/xBVo7__1MUE" 
            allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen > 
         </iframe>
         <p>
@@ -160,7 +193,7 @@
          </p>
 
 
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/UropLVkoTBw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/UropLVkoTBw"  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
         <p>
             <em><b><u>Masayoshi Yamazaki - One more time, One more chance</u></b></em><br>
@@ -168,7 +201,7 @@
          </p>
 
 
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/UxLuvsM9nEU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/UxLuvsM9nEU"  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
         <p>
             <em><b><u>そっけない RADWIMPS MV</u></b></em><br>
@@ -181,7 +214,7 @@
       
          </p>
 
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/CAHhW0gN3mg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/CAHhW0gN3mg"  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
         
         <p>
@@ -189,38 +222,24 @@
       
          </p>
         
-         <iframe width="560" height="315" src="https://www.youtube.com/embed/5-nWHZqcnrg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+         <iframe width="560" height="315" src="https://www.youtube.com/embed/5-nWHZqcnrg"  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         <p>
             <em><b><u>スパークル -Your name</u></b></em><br>
       
         </p>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/a2GujJZfXpg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/a2GujJZfXpg"  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         
         <p>
             <em><b><u>そっけない  RADWIMPS MV</u></b></em><br>
       
          </p>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/R1vmfVpINbk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-
-
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/R1vmfVpINbk"  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </section>
 
 
-
-
- <section>
-        <aside class="separarPublicidad" >
-            <h2 class="centrado"> <i></i></h2>
-            <a href="https://zenmarket.jp/es"><img src="publicidad/comprasJapon.JPG" alt="publicidad2" style="max-width: 100% " width="300" height="220"/>Nagano Tour</a>
-             <p class=justificado>
-                Bienvenido a  <a href=https://zenmarket.jp/es>ZenMarket</a>
-                Un solo carrito para todas tus compras en línea a Japón.Comprando con ZenMarket te ahorras mucho en envío porque consolidamos tu pedido sin cargo.
-             </p>
-        </aside>
- </section>
-
+        <!--
+            Pie de pagina 
+        -->
 
 
     <footer class="separar">
